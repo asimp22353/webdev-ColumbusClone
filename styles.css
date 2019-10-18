@@ -176,6 +176,130 @@ nav{
 }
 
 
+/* -------------------   CCHS GLANCE   -------------- */
+
+#glancesection{
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  height: 400px;
+}
+
+#glanceheader{
+  height: 60px;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.glancebox{
+  display: inline;
+  width: 25%;
+  height: 340px;
+  text-align: center;    
+}
+
+.glancebox img{
+  width: 60%;
+}
+
+.glancebox h3{
+  color: red;
+  font-size: 2em;
+}
+
+.glancebox p{
+  color: #333;
+  font-size: 1.2em;
+}
+
+
+
+/* -----------------    Statbox   -------------------- */
+
+#statbox{
+  width: 100%;
+  height: 160px;
+  margin-top: 100px;
+  padding-top: 20px;
+}
+
+#statcontent{
+  width: 85%;
+  height: 60px;
+  background-color: #10243B;
+  color: white;
+  font-size: 2em;
+  margin:  0 auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+
+/* ------------   College section   ------------------- */
+
+
+
+
+
+/*  -------------   Footer Section   ------------------ */
+
+
+#footer{
+  height: 400px;
+  width: 100%;
+  background-color: yellow;
+}
+
+#footerNav{
+  height: 50px;
+  width: 100%;
+  background-color: #10243B;
+
+}
+
+#footerContent{
+  height: 350px;
+  width: 100%;
+  background-color: #333;
+}
+
+#footer ul{
+  color: white;
+  display: inline;
+  list-style-type: none;
+  font-size: 1.4em;
+  /* text-transform: up percase; */
+  font-weight: lighter;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#leftsideNav li{
+  float: left;
+  margin: 0 22px;
+
+}
+
+#rightsideNav li{
+  float: left;
+  margin: 0 22px;
+}
+
+#leftFoot{
+  width: 60%;
+  height: 350px;
+  padding-right: 18%;
+  color: #555;
+}
+
+#leftFoot h3{
+  color: white;
+}
+
+#rightFoot{
+  width: 20%;
+  height: 350px;
+}
+
 
 
 
